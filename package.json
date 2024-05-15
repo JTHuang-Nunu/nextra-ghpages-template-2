@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/bratislava/bratislava.github.io/issues"
   },
-  "homepage": "https://jthuang-nunu.github.io/nextra-ghpages-template-2/",
+  "homepage": "https://jthuang-nunu.github.io/nextra-ghpages-template-2",
   "dependencies": {
     "next": "13.4.5",
     "nextra": "2.11.1",
