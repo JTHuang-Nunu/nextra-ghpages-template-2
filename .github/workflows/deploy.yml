@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: production
-      url: ${{ steps.deploy.outputs.live_site_url }}
+      url: 'https://jthuang-nunu.github.io/nextra-ghpages-template-2'
     steps:
       - uses: actions/checkout@v2
 
