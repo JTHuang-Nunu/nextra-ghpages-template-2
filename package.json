@@ -1,7 +1,7 @@
 {
   "name": "nextra-docs-template",
   "version": "1.0.0",
-  "description": "Bratislava technical docs built using Nextra",
+  "description": "Bratislava technical docs built using Nextra -v2",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export -o build",
