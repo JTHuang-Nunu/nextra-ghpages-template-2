@@ -1,0 +1,32 @@
+{
+  "index": "Introduction",
+  "onboarding": "Setup & Onboarding",
+  "-- Eslint --": {
+    "type": "separator"
+  },
+  "eslint-and-prettier": "Eslint & Prettier",
+  "-- Web development --": {
+    "type": "separator"
+  },
+  "frontend": "Frontend",
+  "strapi": "Strapi",
+  "graphql": "GraphQL",
+  "meilisearch": "Meilisearch",
+  "openapi": "OpenAPI client",
+  "-- Backend --": {
+    "type": "separator"
+  },
+  "GINIS": "GINIS",
+  "nestjs": "NestJS",
+  "-- DevOps --": {
+    "type": "separator"
+  },
+  "deployment-and-infrastructure": "Deployment & Infrastructure",
+  "monitoring-and-observability": "Monitoring & Observability",
+  "-- Projects --": {
+    "type": "separator"
+  },
+  "bratislava.sk": "bratislava.sk",
+  "konto.bratislava.sk": "konto.bratislava.sk",
+  "muzeumbratislava.sk": "muzeumbratislava.sk"
+}
